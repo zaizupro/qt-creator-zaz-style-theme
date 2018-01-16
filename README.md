@@ -25,3 +25,5 @@ An example:
 ```
 /path/to/QtCreator/QtCreator -stylesheet=/path/to/stylesheet/stylesheet.css
 ```
+
+tested on Qt Creator 3.5.1 based on Qt 5.5.1
