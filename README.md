@@ -27,3 +27,5 @@ An example:
 ```
 
 tested on Qt Creator 3.5.1 based on Qt 5.5.1
+
+![normal](screenshots/screen1.png)
