@@ -8,19 +8,19 @@
   <style name="SearchScope" foreground="#000000"/>
   <style name="Parentheses" foreground="#e3e0d7" bold="true"/>
   <style name="CurrentLine" foreground="#000000" background="#9D8540"/>
-  <style name="CurrentLineNumber" foreground="#FBD079"/>
+  <style name="CurrentLineNumber" foreground="#FBD079" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
   <style name="Occurrences.Unused" foreground="#808000"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#BB432C"  bold="true" />
   <style name="String" foreground="#D3C900" bold="true" />
-  <style name="Type" foreground="#FF9600"/>
+  <style name="Type" foreground="#FF9600" bold="true"/>
   <style name="Local" foreground="#CFCF86"/>
   <style name="Field" foreground="#eadead"/>
   <style name="Static" foreground="#e5786d"/>
   <style name="VirtualMethod" foreground="#cae982" italic="true"/>
-  <style name="Function" foreground="#cae982"/>
-  <style name="Keyword" foreground="#88b8f6" bold="true"/>
+  <style name="Function" foreground="#ECBA64"/>
+  <style name="Keyword" foreground="#E29528" bold="true"/>
   <style name="Operator" foreground="#CFCF86"/>
   <style name="Preprocessor" foreground="#e5786d"/>
   <style name="Label" foreground="#95e454"/>

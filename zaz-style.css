@@ -3,6 +3,7 @@ QToolTip
     border: 1px solid #FFD37B;
     background-color: #3A2300;
     color: #FFD37B;
+    font-weight: bold;
 }
 
 QWidget
@@ -12,6 +13,7 @@ QWidget
     background-color: #2A1901;
     font-family: "Terminus";
     font-size: 14pt;
+    font-weight: bold;
 }
 
 
@@ -244,6 +246,7 @@ QPlainTextEdit {
      background: #1A0F00;
      font-family: "Terminus";
      font-size: 14pt;
+     font-weight: bold;
     }
 
 
@@ -447,7 +450,10 @@ QAbstractItemView::selected {
 /* ==================================================================================== */
 
 QTreeView {
-    background-color: #3A2300;
+    /*background-color: #3A2300;*/
+    background-color: #AE772A;
+    color: #FFD37B;
+    font-weight: bold;
 }
 
 QTreeView::item, QTreeView::branch {
